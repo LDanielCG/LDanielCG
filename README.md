@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello GitHub user! 👋
 
-<!--
-**LDanielCG/LDanielCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you're reading this, it means that you stumbled upon my GitHub page! Well... that's kinda obvious isn't it?
 
-Here are some ideas to get you started:
+My name is **Daniel** and I'm gonna tell you a bit about my ✨ _incredibly interesting_ ✨ self (yeah that was an over-the-top adjective)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A tiny bit of info about myself would be:
+
+- 🔭 I’m currently not working anywhere.
+- 🌱 I’m currently learning `PHP` and `JavaScript`.
+- 🔊 I’m also a `Sound Designer`!
+- 📱 I'm "fluent" in `HTML` and `CSS`
+- 💻 I love to build PCs. Laptops not so much... 😅
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I know how to speak `Spanish` and `English`
+
