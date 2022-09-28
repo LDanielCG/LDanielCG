@@ -12,7 +12,7 @@ A tiny bit of info about myself would be:
 - 📱 I'm "fluent" in `HTML` and `CSS`
 - 💻 I love to build PCs. Laptops not so much... 😅
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I know how to speak `Spanish`, `English` and I'm learning a bit of `Japanese
+- ⚡ Fun fact: I know how to speak `Spanish`, `English` and I'm learning a bit of `Japanese`
 - 🖥 PC Specs: Intel Core i5-8600k | 16GB RAM | RTX 3060 ti | 750W PSU | 255GB M.2 | 500GB SSD | 3TB HDD
 
 ### Languages I work with
