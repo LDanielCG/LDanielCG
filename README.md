@@ -2,7 +2,7 @@
 
 If you're reading this, it means that you stumbled upon my GitHub page! Well... that's kinda obvious isn't it?
 
-My name is **Daniel** and I'm gonna tell you a bit about my ✨ _incredibly interesting_ ✨ self (yeah that was an over-the-top adjective)
+My name is **Daniel** but you can call me **Dan** and I'm gonna tell you a bit about my ✨ _incredibly interesting_ ✨ self (yeah that was an over-the-top way to introduce myself)
 
 A tiny bit of info about myself would be:
 
